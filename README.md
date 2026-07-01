@@ -10,6 +10,7 @@ To further improve model performance, hyperparameter tuning was performed using 
 Through this project, I gained practical experience in model validation, performance evaluation, overfitting control, cross-validation, and hyperparameter optimization. These techniques are essential for building reliable machine learning models that can generalize well to real-world data.
 
 ** Objectives**
+
 Predict housing prices using regression models
 Evaluate model performance using RMSE and R² Score
 Identify overfitting and underfitting issues
@@ -18,6 +19,7 @@ Optimize model performance using GridSearchCV
 Compare multiple models and select the best-performing model
 
 **Technologies Used**
+
 Python
 Pandas
 NumPy
@@ -25,16 +27,19 @@ Scikit-Learn
 Jupyter Notebook
 
 ** Models Used**
+
 Linear Regression
 Ridge Regression
 Decision Tree Regressor
 
 **Evaluation Metrics**
+
 RMSE (Root Mean Squared Error)
 R² Score
 Cross-Validation Score
 
 ** Key Outcomes**
+
 Trained and evaluated multiple regression models
 Applied cross-validation for robust performance estimation
 Detected and controlled overfitting
